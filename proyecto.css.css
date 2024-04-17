@@ -118,7 +118,7 @@ header a:hover{
 }
 
 #nuestros-programas .container{
-    padding: 150px 12px;
+    padding: 150em 12em;
 }
 
 #nuestros-programas h2{
@@ -133,9 +133,9 @@ header a:hover{
 #nuestros-programas .carta{
     background-position: center center;
     background-size: cover;
-    padding: 50px 0px;
-    margin: 30px;
-    border-radius: 15px;
+    padding: 50em 0em;
+    margin: 30em;
+    border-radius: 15em;
 }
 
 .carta:first-child{
