@@ -29,7 +29,7 @@ button{
     color: white;
     background-color: blueviolet;
 }
-
+ 
 button:hover{
     background-color: rgb(101, 33, 165);
 }
@@ -359,3 +359,9 @@ footer .container{
         background-position-x: calc(100vw - 800px);
     }
 }
+@media (min-width: 850px) {
+    .caja1{ background-position-x: calc(100vw - 800px);}
+    }
+    
+
+    
